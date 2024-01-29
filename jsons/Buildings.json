@@ -4,7 +4,7 @@
 		"replaces": "Monument",
 		"uniqueTo": "Akatsuki",
 		"cost": 100,
-		"science": 4
+		"science": 4,
   "uniques": ["New [All] units start with [9999] Experience [in this city]"],
   "culture": 4,
 	},
@@ -16,6 +16,7 @@
 		"hurryCostModifier": 160,
 		"happiness": 2,
 		"uniques": ["[+1 Gold, +1 Production, +1 Culture, +1 Science, +1 Food] per [1] population [in this city]"],
+"unique":["Destroyed when the city is captured"],
 		
 	}
 ]
