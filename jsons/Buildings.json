@@ -4,7 +4,7 @@
 		"replaces": "Monument",
 		"uniqueTo": "Akatsuki",
 		"cost": 100,
-		"happiness": 100, 
+		"science": 4
   "uniques": ["New [All] units start with [9999] Experience [in this city]"],
   "culture": 4,
 	},
