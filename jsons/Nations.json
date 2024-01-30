@@ -27,8 +27,8 @@
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [20,2,2],
-		"innerColor": [167,25,3],
+		"outerColor": [18,1,1],
+		"innerColor": [175,48,28],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["Amegakure","Konohagakure","Sunagakure","Kumogakure","Iwagakure","Kirigakure","Otogakure","Uzushiogakure","Takigakure","Yugakure"]
 	}
