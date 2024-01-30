@@ -8,7 +8,7 @@
 "[+1] additional attacks per turn <when at war>",
 "[+25]% Strength <when attacking> <when fighting in [Friendly Land] tiles> <when at war>",
 "[+25]% Strength <when defending> <when fighting in [Friendly Land] tiles> <when at war>",
-"[+50]% Strength decreasing with distance from the capital",
+"[+50]% Strength decreasing with distance from the capital<when at war>",
 ],
         },
 ]
