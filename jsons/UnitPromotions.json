@@ -1,6 +1,11 @@
 [
         {
                 "name": "[Dios, monogamia y patria] ability",
-                "uniques": ["[+50]% Strength,[+1] additional attacks per turn <when at war>", "[+25]% Strength <when fighting in [Friendly Land] tiles>", "[+50]% Strength decreasing with distance from the capital"],
+
+"uniques":["[+50]% Strength <vs [All]> <when attacking> <when at war>",
+"[+50]% Strength <vs [All]> <when defending> <when at war>",
+"[+1] additional attacks per turn <when at war>",
+"[+25]% Strength <when fighting in [Friendly Land] tiles>",
+"[+50]% Strength decreasing with distance from the capital",
         },
 ]
