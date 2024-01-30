@@ -16,9 +16,9 @@
 		"cost": 80,
 		"hurryCostModifier": 160,
 		"happiness": 2,
-"unique":["Requires at least [10] population [in this city]"]
+"unique":["Requires at least [10] population [in this city]"],
 		"uniques": ["[+1 Gold, +1 Production, +1 Culture, +1 Science, +1 Food] per [1] population [in this city]"],
 "unique":["Destroyed when the city is captured"],
-,
+
 	}
 ]
