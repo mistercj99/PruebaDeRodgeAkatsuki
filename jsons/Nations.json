@@ -32,7 +32,7 @@
 		"uniquename": "Intense war",
    "uniques": [
   "[+500]% [Gold, Production] [in all cities]<when at war>",
-]
+],
 		"cities": ["Amegakure","Konohagakure","Sunagakure","Kumogakure","Iwagakure","Kirigakure","Otogakure","Uzushiogakure","Takigakure","Yugakure"]
 	}
 ]
