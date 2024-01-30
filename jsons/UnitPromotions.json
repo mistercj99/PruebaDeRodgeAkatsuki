@@ -5,10 +5,11 @@
 "uniques":[
 "[+10]% Strength <vs [All]> <when attacking> <when at war>",
 "[+10]% Strength <vs [All]> <when defending> <when at war>",
-"[+1] additional attacks per turn <when at war>",
+"[+1] additional attacks per turn <when at war><for [10] turns>",
 "[+25]% Strength <when attacking> <when fighting in [Friendly Land] tiles> <when at war>",
 "[+25]% Strength <when defending> <when fighting in [Friendly Land] tiles> <when at war>",
-"[+100]% Strength decreasing with distance from the capital<when at war>",
+"[+10]% Strength decreasing with distance from the capital<when at war>",
+"[+20]% Strength <vs Barbarians><when not at war>"
 ],
         },
 ]
