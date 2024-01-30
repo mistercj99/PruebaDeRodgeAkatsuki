@@ -31,7 +31,7 @@
 		"innerColor": [175,48,28],
 		"uniquename": "Intense war",
    "uniques": [
-  "[+100]% [Gold, Production] [in all cities]<when at war>",
+  "[+100]% [[Gold], [Production]] [in all cities]<when at war>",
 ],
 		"cities": ["Amegakure","Konohagakure","Sunagakure","Kumogakure","Iwagakure","Kirigakure","Otogakure","Uzushiogakure","Takigakure","Yugakure"]
 	}
