@@ -5,7 +5,7 @@
 		"uniqueTo": "Akatsuki",
 		"cost": 50,
 		"science": 4,
- "unique":[
+ "uniques":[
 "Destroyed when the city is captured",
 "All newly-trained [All] units [in this city] receive the [Dios, monogamia y patria] promotion",
 ],
@@ -18,7 +18,7 @@
 		"cost": 80,
 		"hurryCostModifier": 160,
 		"happiness": 2,
-"unique":[
+"uniques":[
 "Destroyed when the city is captured",
 "Requires at least [10] population [in this city]",
 "[+1 Gold, +1 Production, +1 Culture, +1 Science, +1 Food] per [1] population [in this city]",
