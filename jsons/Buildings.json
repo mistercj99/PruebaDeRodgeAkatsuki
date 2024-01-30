@@ -20,7 +20,7 @@
 		"happiness": 2,
 "uniques":[
 "Destroyed when the city is captured",
-"Requires at least [10] population [in this city]",
+"Requires at least [10] population",
 "[+1 Gold, +1 Production, +1 Culture, +1 Science, +1 Food] per [1] population [in this city]",
 ],
 	}
