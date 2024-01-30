@@ -5,10 +5,10 @@
 		"uniqueTo": "Akatsuki",
 		"cost": 50,
 		"science": 4,
+ "unique":["Destroyed when the city is captured"],
   "uniques": ["All newly-trained [All] units [in this city] receive the [Dios, monogamia y patria]"],
   "culture": 4,
- "unique":["Destroyed when the city is captured"],
-	},
+},
 	{
 		"name": "Juubi",
 		"replaces": "Circus",
@@ -16,9 +16,9 @@
 		"cost": 80,
 		"hurryCostModifier": 160,
 		"happiness": 2,
+"unique":["Destroyed when the city is captured"],
 "unique":["Requires at least [10] population [in this city]"],
 		"uniques": ["[+1 Gold, +1 Production, +1 Culture, +1 Science, +1 Food] per [1] population [in this city]"],
-"unique":["Destroyed when the city is captured"],
 
 	}
 ]
