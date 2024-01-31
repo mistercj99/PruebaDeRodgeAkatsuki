@@ -9,7 +9,7 @@
 "[+25]% Strength <when attacking> <when fighting in [Friendly Land] tiles> <when at war>",
 "[+25]% Strength <when defending> <when fighting in [Friendly Land] tiles> <when at war>",
 "[+10]% Strength decreasing with distance from the capital<when at war>",
-"[+20]% Strength <vs Barbarians><when not at war>",
+"[+20]% Strength <vs Barbarian><when not at war>",
 "All healing effects doubled<in [All] tiles>",
 "Comment [Kyrie eleison]",
 
