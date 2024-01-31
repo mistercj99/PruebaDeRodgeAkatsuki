@@ -34,9 +34,9 @@
   "[+10]% [Gold] [in all cities]<when at war>",
   "[+10]% [Production] [in all cities]<when at war>",
   "[+10]% Strength <for units with [Dios, monogamia y patria]><vs [All] units><upon conquering a city><when at war><for [5] turns><when attacking><when defending>",
-  "<during a Golden Age>[+5 Production, +2 Science, +2 Gold, +2 Culture] from every [Wonders]",
-  "<upon discovering [Nuclear Fusion]> [All] units gain the [Deus ex-machina] promotion",
-  "<upon discovering [Nuclear Fusion]> All newly-trained [All] units [in all cities] receive the [Deus ex-machina] promotion",
+  "[+5 Production, +2 Science, +2 Gold, +2 Culture] from every [Wonders]<during a Golden Age>",
+  "[All] units gain the [Deus ex-machina] promotion<upon discovering [Nuclear Fusion]>",
+  "All newly-trained [All] units [in all cities] receive the [Deus ex-machina] promotion<upon discovering [Nuclear Fusion]>",
 ],
 		"cities": ["Amegakure","Konohagakure","Sunagakure","Kumogakure","Iwagakure","Kirigakure","Otogakure","Uzushiogakure","Takigakure","Yugakure"]
 	}
