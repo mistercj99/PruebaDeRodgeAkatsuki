@@ -34,7 +34,7 @@
   "[+10]% [Gold] [in all cities]<when at war>",
   "[+10]% [Production] [in all cities]<when at war>",
   "[+10]% Strength <for units with [Dios, monogamia y patria]><vs [All] units><upon conquering a city><when at war><for [5] turns><when attacking><when defending>",
-  "<upon entering a Golden Age>[+5 Production, +2 Science, +2 Gold, +2 Culture] from all [Wonders] buildings",
+  "<during a Golden Age>[+5 Production, +2 Science, +2 Gold, +2 Culture] from all [Wonders] buildings",
   "<upon discovering [Nuclear Fusion]> [All] units gain the [Deus ex-machina] promotion",
   "<upon discovering [Nuclear Fusion]> All newly-trained [All] units [in all cities] receive the [Deus ex-machina] promotion",
 ],
