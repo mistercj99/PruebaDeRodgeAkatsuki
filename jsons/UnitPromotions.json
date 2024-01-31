@@ -12,7 +12,14 @@
 "[+20]% Strength <vs [Barbarian] units><when not at war>",
 "All healing effects doubled<in [All] tiles>",
 "Comment [Kyrie eleison]",
+], },
 
+{
+"name": "Deus ex-machina",
+
+"uniques":[
+"[+30]% Strength <vs [All]><when attacking><when defending><when at war>",
+"[+1] additional attacks per turn <when at war>",
 ],
-        },
+},
 ]
